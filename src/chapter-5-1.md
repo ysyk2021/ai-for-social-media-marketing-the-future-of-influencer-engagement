@@ -1,5 +1,4 @@
-Overview of AI applications for influencer identification in social media marketing
-=============================================================================================================================================
+
 
 In this chapter, we will provide an overview of how Artificial Intelligence (AI) can be used to improve influencer identification in social media marketing. We will cover the basics of influencer identification and explain how AI can help automate the process of identifying influencers who are relevant to a brand's target audience.
 

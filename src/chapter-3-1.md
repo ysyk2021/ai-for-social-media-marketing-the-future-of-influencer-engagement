@@ -1,5 +1,4 @@
-Assessing Your Social Media Marketing Needs and Goals
-===========================================================================================================================
+
 
 In this chapter, we will discuss the importance of assessing social media marketing needs and goals when preparing for AI implementation. We will cover the basics of assessing needs and goals, explain how to identify relevant metrics, and provide examples of common social media marketing needs and goals.
 

@@ -1,5 +1,4 @@
-Why AI is important for social media marketing
-============================================================
+
 
 Social media marketing has become an essential component of modern-day marketing strategies. With the rise of social media platforms such as Facebook, Instagram, Twitter, and LinkedIn, businesses are leveraging these channels to reach out to their target audience, increase brand awareness, generate leads, and drive sales.
 

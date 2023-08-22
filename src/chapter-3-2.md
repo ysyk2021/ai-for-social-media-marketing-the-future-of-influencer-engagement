@@ -1,5 +1,4 @@
-Evaluating data availability and quality
-==============================================================================================================
+
 
 In this chapter, we will discuss the importance of evaluating data availability and quality when preparing for AI implementation in social media marketing. We will cover the basics of data evaluation, explain how to assess data availability and quality, and provide examples of potential challenges that startups may encounter.
 

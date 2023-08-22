@@ -1,5 +1,4 @@
-Types of AI Used for Social Media Marketing
-==================================================================================================
+
 
 In this chapter, we will discuss the different types of artificial intelligence (AI) used for social media marketing. We will cover the basics of natural language processing (NLP), machine learning (ML), and computer vision (CV), and explain how these types of AI can be used to optimize social media marketing strategies.
 
