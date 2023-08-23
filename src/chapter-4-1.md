@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of the different AI tools and technologies that can be used for social media marketing. We will cover the basics of each tool and explain how they can be used to improve social media marketing efforts.
 
 Chatbots

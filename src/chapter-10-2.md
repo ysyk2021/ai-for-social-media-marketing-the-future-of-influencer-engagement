@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the importance of AI ethics and governance in social media marketing. We will cover the basics of AI ethics and governance, explain why it is important for startups to have governance frameworks in place, and provide examples of best practices for ensuring responsible AI use.
 
 Understanding AI Ethics and Governance

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of artificial intelligence (AI) in social media marketing. We will discuss the definition of AI-powered social media marketing, types of AI used for social media marketing, and benefits of using AI for creating more effective influencer engagement.
 
 Definition of AI-Powered Social Media Marketing

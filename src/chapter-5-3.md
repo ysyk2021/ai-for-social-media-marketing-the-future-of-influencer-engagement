@@ -1,5 +1,4 @@
 
-
 Influencer marketing has become an essential component of modern-day social media marketing strategies. However, identifying the right influencer for your brand can be a challenge, especially when there are millions of influencers on various social media platforms. This is where artificial intelligence (AI) comes into play.
 
 In this chapter, we will explore how businesses are using AI for better influencer identification and provide case studies of successful AI implementations.

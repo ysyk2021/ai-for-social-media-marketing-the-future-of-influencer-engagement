@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss successful case studies of businesses that have used artificial intelligence (AI) to create more effective influencer outreach strategies. These case studies demonstrate the potential of AI for improving the effectiveness of influencer marketing campaigns.
 
 Unilever

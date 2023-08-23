@@ -1,5 +1,4 @@
 
-
 In this chapter, we will define AI-powered social media marketing and explain how it is transforming the way that businesses engage with customers on social media platforms.
 
 Definition of AI-Powered Social Media Marketing

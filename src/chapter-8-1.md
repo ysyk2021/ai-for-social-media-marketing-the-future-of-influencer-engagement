@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how Artificial Intelligence (AI) can be used to improve social listening and sentiment analysis in social media marketing. We will cover an overview of AI applications for social listening and sentiment analysis, including trend analysis, topic modeling, and emotion detection.
 
 Social Listening with AI
