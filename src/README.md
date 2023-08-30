@@ -10,3 +10,7 @@ We will also discuss the ethical considerations related to AI in marketing, such
 Whether you're a marketer, business owner, or influencer, this book is for anyone interested in exploring the future of AI in social media marketing. Join us on this journey to discover the latest trends and strategies for influencer engagement, and stay ahead of the curve in a rapidly evolving industry.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
